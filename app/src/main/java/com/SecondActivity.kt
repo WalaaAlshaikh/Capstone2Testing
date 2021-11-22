@@ -1,14 +1,13 @@
-package com.example.testing11
-
-import com.example.testing11.R
-
+package com
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.testing11.R
 
 class SecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
+        //lkjdlksdlwk"
     }
 }

@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Testing11">
         <activity
+<<<<<<< HEAD
             android:name=".SecondActivity"
+=======
+            android:name="com.SecondActivity"
+>>>>>>> 3dca2ac59dcabf017fddd76c5088d42d894df189
             android:exported="true" />
         <activity
             android:name=".MainActivity"
